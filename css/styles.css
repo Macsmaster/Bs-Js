@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+
+h1{
+    font-family: 'Indie Flower', cursive;
+ }
+
+ *{
+    font-family: 'Josefin Sans', sans-serif;
+ }
+
+ header{
+    margin-top: 65px;
+ }
+
+ .contenedor{
+    background: white;
+    padding: 120px 0px 120px 0px;
+
+
+ }
+ .alert{
+    color: red;
+ }
+
+ .clase:nth-child(even) {
+
+ }
+
+
+
+ .img {
+    height: 200px;
+ }
+
+ .contenedor2{
+   padding: 80px 0px 80px 0px;
+   color: white;
+
+ }
+
+.comments{
+
+   background: white;
+
+}
+
+
+
+ footer{
+
+   margin-top: 100px;
+   font-size: 50px;
+   height: 200px;
+   margin-bottom: 0;
+ }
+
+ .social{
+    cursor: pointer;
+
+ }
+.social i{
+   padding: 10px;
+
+}
+
+ .social,p{
+    text-align: center;
+ }
+ /*navegacion*/
+
+ .nav {
+    margin-bottom: 50px;
+
+
+ }
+
+ .nav li{
+    padding: 10px
+ }
+
+ body img{
+    border:10px solid black;
+ }
